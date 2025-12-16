@@ -1,9 +1,20 @@
-Book Scraper Automation
+# Book Scraper Automation
 
-Automates the extraction of book data (title, price, link)
-from books.toscrape.com.
+A simple Python automation script that scrapes book data
+(title, price, link) from https://books.toscrape.com.
 
-Use cases:
+## What it does
+- Scrapes multiple pages automatically
+- Extracts structured data
+- Saves results to CSV and JSON
+
+## Why this matters
+This project demonstrates:
+- automation logic
+- data extraction
+- reusable scripting for larger workflows
+
+## Possible use cases
 - price monitoring
 - data collection
-- automation pipelines
+- feeding automation pipelines
